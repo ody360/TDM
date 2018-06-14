@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tut4", "Tut4.vcproj", "{ADCDF6AF-413D-4177-97AF-AAC6F94F7315}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Fullscreen
+		ConfigName.2 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{ADCDF6AF-413D-4177-97AF-AAC6F94F7315}.Debug.ActiveCfg = Debug|Win32
+		{ADCDF6AF-413D-4177-97AF-AAC6F94F7315}.Debug.Build.0 = Debug|Win32
+		{ADCDF6AF-413D-4177-97AF-AAC6F94F7315}.Fullscreen.ActiveCfg = Fullscreen|Win32
+		{ADCDF6AF-413D-4177-97AF-AAC6F94F7315}.Fullscreen.Build.0 = Fullscreen|Win32
+		{ADCDF6AF-413D-4177-97AF-AAC6F94F7315}.Release.ActiveCfg = Release|Win32
+		{ADCDF6AF-413D-4177-97AF-AAC6F94F7315}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
